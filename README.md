@@ -9,7 +9,7 @@ https://github.com/spring-epfl/zksk/issues/14
 There is a fixed fork of bplip at https://github.com/caro3801/bplib/tree/fix/OpenSSL
 So use pip install git+https://github.com/caro3801/bplib.git@fix/OpenSSL can be used then pip install zksk
 
-Unfortunately these libraries rely on openssl, which is not available as a windows binary.
-You can use homebrew on mac to install openssl
-On a windows machine, you can use WSL and a venv to install the packages and run.
+Unfortunately these libraries rely on openssl, which is not available as a Windows binary.
+You can use homebrew on mac to install openssl.
+On a Windows machine, you can use WSL and a venv to install the packages and run.
 
