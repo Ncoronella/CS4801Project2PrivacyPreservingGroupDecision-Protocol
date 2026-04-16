@@ -1,0 +1,8 @@
+voterFeldmanVSS.py Output
+
+Voter 0 concludes: 3/5
+Voter 1 concludes: 3/5
+Voter 2 concludes: 3/5
+Voter 3 concludes: 3/5
+Voter 4 concludes: 3/5
+Result should be: 3/5
