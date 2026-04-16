@@ -1,6 +1,6 @@
 # CS4801Project2PrivacyPreservingGroupDecision-Protocol
 
-An implementation of a Group Privacy Voting Protocol
+An example implementation of a Group Privacy Voting Protocol
 
 To Run:
 - pip install fastecdsa shamirs lagrange petlib
